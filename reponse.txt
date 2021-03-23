@@ -1,0 +1,10 @@
+ 
+ Le HTML créer la structure des pages  
+ le CSS va nous permettre de modifier l'apparence des contenus de la page
+la couleur la forme les cases 
+le HTML comme un cadre d’un document et donne la structure au site
+le css est le corp de la page
+la programation avec css permet d'utiliser plusieures formes des text et types
+font size et couleur et aussi le modifier background et de simplifier notre page web 
+ 
+le html est'une programation statique simple et morte
